@@ -1,0 +1,13 @@
+Server: nginx
+Date: Fri, 10 Nov 2023 15:42:33 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: sp-cdn=delete; Domain=.amazon.com; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Sops_Api_Credits: 1
+Vary: Accept-Encoding
+X-Powered-By: Express
+X-Request-Id: 027c9bc1-1f52-4990-ae65-eea98b512ac2
+X-Robots-Tag: none
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip

@@ -1,0 +1,12 @@
+Server: nginx
+Date: Tue, 14 Nov 2023 18:09:23 GMT
+Content-Type: text/html; charset=utf-8
+Sops_Api_Credits: 1
+Vary: Accept-Encoding
+X-Powered-By: Express
+X-Request-Id: 6a6e7af5-c3ec-4f95-b6e2-87b02104eaf0
+X-Robots-Tag: none
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip

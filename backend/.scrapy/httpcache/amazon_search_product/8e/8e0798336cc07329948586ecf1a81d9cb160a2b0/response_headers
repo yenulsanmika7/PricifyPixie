@@ -1,0 +1,13 @@
+Server: nginx
+Date: Tue, 14 Nov 2023 18:06:31 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: session-token=Fed3fjCisobVYGy7oWAWbO9QGvCtQrVbXwegPYkDXSJ431+0w/i0liCR2QBM3VH5k5YUH09JeFva9MmWxVRfRQyr0rdmXEaHknalcfgvaUvGRrI31g7ETRXJK8I/BCYlO5bancEjGk+Eln5MW/l8VvQ3Qy5Mr6EENEy0fg4niGRvYyEAhSw5A5nv0B/heE8s3EdPlnmeKaXDui37P8p4hzL7pt6/1ruLv3QJ55LOJw7tkAHHKw/VMIooue1ZIQvY9aL6mdoFy7SVLI7h0iBgxgC1dUE+6OrCf2yM04mvrFjAILMB0Gc72GXdjQDbr4VpN12cSOfkqn1Y9mbvG5y1AhzWBuypBiPs; Domain=.amazon.com; Expires=Wed, 13-Nov-2024 18:06:27 GMT; Path=/; Secure
+Sops_Api_Credits: 1
+Vary: Accept-Encoding
+X-Powered-By: Express
+X-Request-Id: 7de6b691-e437-4081-9ad8-c4bb07a2cd9e
+X-Robots-Tag: none
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
